@@ -1,3 +1,4 @@
+
 package rabbit.gitprac;
 
 import junit.framework.Test;
@@ -33,6 +34,7 @@ public class AppTest
      */
     public void testApp()
     {
+        System.out.println("oop");
         assertTrue( true );
     }
 }
